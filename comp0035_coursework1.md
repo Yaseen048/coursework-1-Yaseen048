@@ -22,12 +22,17 @@ If the marker cannot execute your coursework they can't grade it!
 
 
 ## Definition of the business need
+the business need is to increase revenue
 ### Problem definition
+Due to covid-19 cinemas were temporarily shut down as everyone went into lockdown, the first of which started in March 2020. This led to a loss in revenue for cinemas and film production companies as customers were not able to go to the cinemas which is their main source of income. Despite lockdown ending and cinemas being reopened, there are currently only a limited number of screenings.
 
 ### Target audience
-
+The target audience are cinemas
 ### Questions to be answered using the dataset
-
+How has covid-19 affected the sales of movies in cinema after the pandemic and the re-opening of cinemas?
+What movie genres are more popular?
+Which movie genres have been the least and most affected after lockdown?
+Does the length of the movie affect the ticket sales for that movie?
 ### Suggested web app
 
 ## Data preparation and exploration
