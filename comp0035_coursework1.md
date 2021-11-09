@@ -22,7 +22,7 @@ If the marker cannot execute your coursework they can't grade it!
 
 
 ## Definition of the business need
-the business need is to increase revenue
+
 ### Problem definition
 Due to covid-19 cinemas were temporarily shut down as everyone went into lockdown, the first of which started in March 2020. This led to a loss in revenue for cinemas and film production companies as customers were not able to go to the cinemas which is their main source of income. Despite lockdown ending and cinemas being reopened, there are currently only a limited number of screenings.
 
