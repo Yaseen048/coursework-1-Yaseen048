@@ -17,8 +17,19 @@ If the marker cannot execute your coursework they can't grade it!
 
 ## Selection of project methodology
 ### Methodology (or combination) selected
-
+The methodology used for this project will be crisp-DM
 ### Selection criteria and justification of selection
+The selection criteria includes:
+    The size of the project team.
+    What experience the team has in different methodologies?
+    Is there an understanding of the business?
+    Volatiltiy of requirements, so are the requirements fixed or do they change throughout the project?
+
+Based on the selection critieria it was found that the crisp-DM methodology was the best suited for this project. Firstly, this project is a small one so a only small team is required. Crisp-DM is very adoptable and easy to learn. This suits this project as it means that everyone in the project should be able to implement this method, regardless of thier experience in other methodologies.
+
+ Crisp-DM also starts off its process with business understanding which matches the selection critieria. In this project, the requirements are well defined and is very unlikely to change throughout the project. A disadvantage of crisp-DM is that it can be seen as rigid depending on how you implement crisp-DM, unlike scrum which is agile and allows for changes through inspection after each sprint. However since the requirements are unlikely to change, the rigidness of crisp-DM won't affect the project too much. 
+ 
+ Scrum was another method that was considered for its agileness and allowing for constant improvements and changes but only  works if everyone in the team has experience with it. As a result crisp-DM was chosen over scrum due to being easy to implement with a team that may not have experience in the same methodologies as each other whilst crisp-DM also providing more understanding of the business needs as the begining of the project cycle.
 
 
 ## Definition of the business need
