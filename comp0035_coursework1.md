@@ -39,7 +39,7 @@ Due to covid-19 cinemas were temporarily shut down as everyone went into lockdow
 
 ### Target audience
 The target audience are cinemas CEO
-
+![Alex_Hover_persona](https://github.com/ucl-comp0035/coursework-1-Yaseen048/blob/master/Pictures/Alex_Hover_persona.png)
 
 ### Questions to be answered using the dataset
 How has covid-19 affected the sales of movies in cinema after the pandemic and the re-opening of cinemas?
