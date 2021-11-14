@@ -38,7 +38,8 @@ Scrum was another method that was considered for its agileness and allowing for 
 Due to covid-19 cinemas were temporarily shut down as everyone went into lockdown, the first of which started in March 2020. This led to a loss in revenue for cinemas and film production companies as customers were not able to go to the cinemas which is their main source of income. Despite lockdown ending and cinemas being reopened, there are currently only a limited number of screenings.
 
 ### Target audience
-The target audience are cinemas CEO
+The target audience are cinema CEOs
+
 ![Alex_Hover_persona](https://github.com/ucl-comp0035/coursework-1-Yaseen048/blob/master/Pictures/Alex_Hover_persona.png)
 
 ### Questions to be answered using the dataset
