@@ -14,7 +14,7 @@ instructions to be followed to run your coursework.
 
 If the marker cannot execute your coursework they can't grade it!
 
-
+I installed the xlrd module to allow python to read data from Excel files
 ## Selection of project methodology
 ### Methodology (or combination) selected
 The methodology used for this project will be crisp-DM
