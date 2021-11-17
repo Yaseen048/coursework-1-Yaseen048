@@ -10,6 +10,10 @@ def clean_data(data_file):
     'Site average', 'Total Gross to date'], inplace=True, axis = 1)#remove unwanted data
     data_file['Date'] = data_file.name#added date
 
+def merge(data_file1, data_file2, data_file3):
+merge_data = [data_file1, data_file2, data_file3]
+prepared_data = pd.concat(merge_data)
+
 def main():
     df_March_2020 = pd.read_excel('data\weekend-box-office-report-2020-03-13-15.xls', 
     skiprows = 1)
