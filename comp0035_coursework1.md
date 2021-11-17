@@ -80,11 +80,53 @@ Issues blocking my progress (state ‘None’ if there are no issues):
 
 ### Report 1
 
+What I did in the last week:
+This week I researched and decided what methodology i should use for the coursework project. This was crisp-DM.
+
+What I plan to do in the next week:
+Define business problem or problems  and how i could address them and who might be the target audience.
+
+Issues blocking my progress (state ‘None’ if there are no issues):
+None
+
 ### Report 2
+
+What I did in the last week:
+- item
+- item
+
+What I plan to do in the next week:
+- item
+- item
+
+Issues blocking my progress (state ‘None’ if there are no issues):
+None
 
 ### Report 3
 
+What I did in the last week:
+- item
+- item
+
+What I plan to do in the next week:
+- item
+- item
+
+Issues blocking my progress (state ‘None’ if there are no issues):
+None
+
 ### Report 4
+
+What I did in the last week:
+- item
+- item
+
+What I plan to do in the next week:
+- item
+- item
+
+Issues blocking my progress (state ‘None’ if there are no issues):
+
 
 ## References
 Use any [referencing style](https://library-guides.ucl.ac.uk/referencing-plagiarism/referencing-styles) that you are
