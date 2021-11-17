@@ -44,9 +44,9 @@ The target audience are cinema CEOs
 
 ### Questions to be answered using the dataset
 How has covid-19 affected the sales of movies in cinema after the pandemic and the re-opening of cinemas?
-What movie genres are more popular?
-Which movie genres have been the least and most affected after lockdown?
-Does the length of the movie affect the ticket sales for that movie?
+How has covid-19 affected the release of new movies?
+Who are the movie distributors of movies that have the highest sales?
+What countries make the most successful movies?
 ### Suggested web app
 
 ## Data preparation and exploration
