@@ -6,8 +6,8 @@ import pandas as pd
 
 
 def main():
-    prepared_data_url = "https://github.com/ucl-comp0035/coursework-1-Yaseen048/blob/master/Prepared_dataset.csv"
-    df = pd.read_csv(prepared_data_url)
-
+    
+    df = pd.read_csv("Prepared_dataset.csv")
+    print(df)
 if __name__ == '__main__':
     main()
