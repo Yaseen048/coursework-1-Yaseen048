@@ -33,17 +33,20 @@ def main():
     df_March_2020 = pd.read_excel('data\weekend-box-office-report-2020-03-13-15.xls', 
     skiprows = 1)
     df_March_2020.name = 'March 2020' #code by user aznbanana9 on stackoverflow,
-    #url: , date of retrieval: 17/11/2021
+    #url:https://stackoverflow.com/questions/31727333/get-the-name-of-a-pandas-dataframe
+    #date of retrieval: 17/11/2021
 
     df_Aug_2020 = pd.read_excel('data\weekend-box-office-report-2020-08-28-30.xls', 
     skiprows = 1)
     df_Aug_2020.name = 'Aug 2020'#code by user aznbanana9 on stackoverflow,
-    #url: , date of retrieval: 17/11/2021
+    #url:https://stackoverflow.com/questions/31727333/get-the-name-of-a-pandas-dataframe
+    #date of retrieval: 17/11/2021
 
     df_July_2021 = pd.read_excel('data\weekend-box-office-report-2021-07-23-25.xls', 
     skiprows = 1)
     df_July_2021.name = 'July 2021'#code by user aznbanana9 on stackoverflow,
-    #url: , date of retrieval: 17/11/2021
+    #url:https://stackoverflow.com/questions/31727333/get-the-name-of-a-pandas-dataframe
+    # date of retrieval: 17/11/2021
 
     clean_data(df_March_2020)
     clean_data(df_Aug_2020)
