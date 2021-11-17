@@ -11,8 +11,9 @@ def clean_data(data_file):
     data_file['Date'] = data_file.name#added date
 
 def merge(data_file1, data_file2, data_file3):
-merge_data = [data_file1, data_file2, data_file3]
-prepared_data = pd.concat(merge_data)
+    merge_data = [data_file1, data_file2, data_file3]
+    prepared_data = pd.concat(merge_data)
+    return prepared_data
 
 def main():
     df_March_2020 = pd.read_excel('data\weekend-box-office-report-2020-03-13-15.xls', 
@@ -34,8 +35,9 @@ def main():
     clean_data(df_Aug_2020)
     clean_data(df_July_2021)
 
+    prepared_data = merge(df_March_2020, df_Aug_2020, df_July_2021)
 
-    print(df_March_2020)
+    print(prepared_data)
 
 
 if __name__ == '__main__':
