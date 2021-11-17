@@ -4,6 +4,11 @@ import pandas as pd
 
 
 def clean_data(data_file):
+    """cleans data by removing unwanted data and adding date
+
+    args:
+        data_file (dataframe): dataframe containg data about movie sales at cinemas
+    """
     data_file.drop(data_file.iloc[:,10:], inplace=True, axis=1)#removed empty columns
     data_file.drop(data_file.index[15:], inplace=True)#see only top 15 movies
     data_file.drop(['Rank', '% change on last week', 'Number of cinemas',
@@ -11,6 +16,15 @@ def clean_data(data_file):
     data_file['Date'] = data_file.name#added date
 
 def merge(data_file1, data_file2, data_file3):
+    """merges 3 dataframes into one data frame
+    
+    args:
+        data_file1 (dataframe): dataframe for movie sales in a specific month
+        data_file2 (dataframe): dataframe for movie sales in a specific month
+        data_file3 (dataframe): dataframe for movie sales in a specific month
+        
+    return:
+        prepared_data (dataframe): dataframe containing all data of 3 months"""
     merge_data = [data_file1, data_file2, data_file3]
     prepared_data = pd.concat(merge_data)
     return prepared_data
@@ -37,7 +51,8 @@ def main():
 
     prepared_data = merge(df_March_2020, df_Aug_2020, df_July_2021)
 
-    print(prepared_data)
+    prepared_data.to_csv("Prepared_dataset.csv", index=False)
+
 
 
 if __name__ == '__main__':
