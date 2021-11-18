@@ -1,13 +1,20 @@
 # Write code that explores your data set
 
 import pandas as pd
+import matplotlib.pyplot as plt
+
 
 def total(data):
-    """returns the total weekend sales for March 2020, August 2020 and July 2021
+    """calculates the total weekend sales for March 2020, August 2020 and July 2021
     
     args:
     data (dataframe) = dataframe containing cleaned data of movies in cinemas of months
                             March 2020, August 2020 and July 2021
+
+    return:
+    March_2020_total (int) = integer representing a weekend gross in March
+    Aug_2020_total (int) = integer representing a weekend gross in August
+    July_2021_total (int) = integer representing a weekend gross in July
     """
     March_2020 = data[data["Date"] == "March 2020"]#using data from march
     March_2020_total = March_2020["Weekend Gross"].sum()
@@ -27,15 +34,23 @@ March 2020 = £{0}\nAugust 2020 = £{1}\nJuly 2021 = £{2}"\
 
     return(March_2020_total, Aug_2020_total, July_2021_total)
 
-
-
+def plot(data):
+    graph = data.boxplot(by = 'Date', column = ['Weekend Gross'])
+    #line 38 code from geeksforgeeks, date of retrieval: 18/11/21
+    #url: 
+    plt.show()
 
 def main():
-    df = pd.read_csv("Prepared_dataset.csv")
-    pd.set_option('display.max_rows', df.shape[0] + 1)
-    pd.set_option('display.expand_frame_repr', False)
+    df = pd.read_csv("Prepared_dataset.csv", dtype = {'Weekend Gross': int,
+    "Weeks on release": int})
 
+    #pd.set_option('display.max_rows', df.shape[0] + 1)
+    #line 37 made output messy on terminal
+    pd.set_option('display.expand_frame_repr', False)
+    
+    
     total(df)
+    plot(df)
 
 
 if __name__ == '__main__':
