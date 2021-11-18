@@ -2,8 +2,8 @@
 
 ## Technical information
 ### Repository URL
-Please add the URL to your repository below, then delete this instruction text.
-[Repository]()
+
+[Repository](https://github.com/ucl-comp0035/coursework-1-Yaseen048.git)
 
 ### Set-up instructions
 
@@ -14,7 +14,8 @@ instructions to be followed to run your coursework.
 
 If the marker cannot execute your coursework they can't grade it!
 
-I installed the xlrd module to allow python to read data from Excel files
+I installed the xlrd module to allow python to read data from Excel files. I also installed matplotlib to make graph plot.
+
 ## Selection of project methodology
 ### Methodology (or combination) selected
 The methodology used for this project will be crisp-DM
@@ -47,7 +48,6 @@ How has covid-19 affected the sales of movies in cinema after the pandemic and t
 How has covid-19 affected the release of new movies?
 Who are the movie distributors of movies that have the highest sales?
 What countries make the most successful movies?
-### Suggested web app
 
 ## Data preparation and exploration
 ### Data preparation
