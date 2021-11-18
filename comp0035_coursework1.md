@@ -36,7 +36,7 @@ Scrum was another method that was considered for its agileness and allowing for 
 ## Definition of the business need
 
 ### Problem definition
-Due to covid-19 cinemas were temporarily shut down as everyone went into lockdown, the first of which started in March 2020[3]. This led to a loss in revenue for cinemas and film production companies as customers were not able to go to the cinemas which is their main source of income. Despite lockdown ending and cinemas being reopened, there are currently only a limited number of screenings. As a result, by analysing this dataset, this can useful to those who want to create a business plan just incase another scenario such as covid-19 occurs or it can  provide intel on how to increase sales or reduce costs by selecting certain movies depending on they did during the pandemic
+Due to covid-19 cinemas were temporarily shut down as everyone went into lockdown, the first of which started in March 2020[3]. This led to a loss in revenue for cinemas and film production companies as customers were not able to go to the cinemas which is their main source of income. Despite lockdown ending and cinemas being reopened, there are currently only a limited number of screenings. As a result, by analysing this dataset, this can useful to those who want to create a business plan just incase another scenario such as covid-19 occurs or it can  provide intel on how to increase sales or reduce costs by selecting certain types movies depending on they did during the pandemic.
 
 ### Target audience
 The target audience are cinema CEOs
