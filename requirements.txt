@@ -2,3 +2,5 @@ setuptools
 pandas
 numpy
 bcrypt
+xlrd
+matplotlib
