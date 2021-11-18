@@ -57,11 +57,15 @@ What countries make the most successful movies?
 ### Prepared data set
 Please add names of your data set files in this repository below, then delete this instruction text.
 [Original data set](data)
-[Prepared data set](Prepared_dataset.py)
+[Prepared data set](Prepared_dataset.csv)
 
 ### Data exploration
 
 [Data Exploration](data_exploration.py)
+
+Weekend Gross boxplot:
+
+![Weekend Gross boxplot](
 
 ## Weekly progress reports
 Copy and paste from Moodle or use the following structure. Delete this instruction text.
