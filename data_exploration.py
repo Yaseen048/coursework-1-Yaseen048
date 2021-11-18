@@ -35,9 +35,10 @@ March 2020 = £{0}\nAugust 2020 = £{1}\nJuly 2021 = £{2}"\
     return(March_2020_total, Aug_2020_total, July_2021_total)
 
 def plot(data):
-    graph = data.boxplot(by = 'Date', column = ['Weekend Gross'])
+    gross = data.boxplot(by = 'Date', column = ['Weekend Gross'])
     #line 38 code from geeksforgeeks, date of retrieval: 18/11/21
     #url: https://www.geeksforgeeks.org/box-plot-visualization-with-pandas-and-seaborn/
+    release_weak = data.boxplot(by = 'Date', column = ['Weeks on release'])
     plt.show()
 
 def main():
@@ -47,7 +48,6 @@ def main():
     #pd.set_option('display.max_rows', df.shape[0] + 1)
     #line 37 made output messy on terminal
     pd.set_option('display.expand_frame_repr', False)
-    
     
     total(df)
     plot(df)
