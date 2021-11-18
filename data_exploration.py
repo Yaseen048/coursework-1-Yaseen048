@@ -37,7 +37,7 @@ March 2020 = £{0}\nAugust 2020 = £{1}\nJuly 2021 = £{2}"\
 def plot(data):
     graph = data.boxplot(by = 'Date', column = ['Weekend Gross'])
     #line 38 code from geeksforgeeks, date of retrieval: 18/11/21
-    #url: 
+    #url: https://www.geeksforgeeks.org/box-plot-visualization-with-pandas-and-seaborn/
     plt.show()
 
 def main():
