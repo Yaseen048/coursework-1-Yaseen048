@@ -10,6 +10,7 @@ The two main methods I will use to identify requirements are an interview and br
 ### Requirement specification method
 
 ### Prioritisation method
+The method i have chosen to priortise my reuqirements is the MoSCoW technique
 
 ### Documented and prioritised requirements
 Link to the full list of documented and prioritised requirements.
