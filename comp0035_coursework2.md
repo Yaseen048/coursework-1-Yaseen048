@@ -16,6 +16,7 @@ The method i have chosen to priortise my reuqirements is the MoSCoW technique
 
 ### Documented and prioritised requirements
 Link to the full list of documented and prioritised requirements.
+![documented and prioritised requirements](https://github.com/ucl-comp0035/coursework-1-Yaseen048/blob/master/Pictures/Requirements_table.png)
 
 
 ## Design
