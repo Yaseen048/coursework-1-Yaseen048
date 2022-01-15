@@ -21,6 +21,19 @@ Link to the full list of documented and prioritised requirements.
 
 ## Design
 ### Structure and flow of the interface
+The wireframes below provides a visual of the user inteface of the web app and dashboard.
+
+The four wireframes represent the login/sign up page, the dashboard, a news page and finally a suggestion and improvement page.
+
+This is designed for desktop use as it would be easier for the target audince to view the different graphs and statistics at the same time which will help them when looking to compare or find insight without having to scroll up or down.
+
+![sign in/up](https://github.com/ucl-comp0035/coursework-1-Yaseen048/blob/master/Pictures/wireframe1.png)
+
+![dashboard](https://github.com/ucl-comp0035/coursework-1-Yaseen048/blob/master/Pictures/wireframe2.png)
+
+![news](https://github.com/ucl-comp0035/coursework-1-Yaseen048/blob/master/Pictures/wireframe3.png)
+
+![improvemenst/suggestions](https://github.com/ucl-comp0035/coursework-1-Yaseen048/blob/master/Pictures/wireframe4.png)
 
 ### Relational database design
 
