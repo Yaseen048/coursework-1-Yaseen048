@@ -53,48 +53,21 @@ Please note that I accidently forgot to add a upvote() method to the improvement
 
 ## Testing
 ### Choice of unit testing library
-
+The python test library I used was pytest.
 ### Tests
 The tests should be in a separate and appropriately named file/directory.
 
+[Test code](tests\test_user.py)
+
 ### Test results
 Provide evidence that the tests have been run and the results of the tests (e.g. screenshot).
-
+![test results](https://github.com/ucl-comp0035/coursework-1-Yaseen048/blob/master/Pictures/test_results.png)
 ### Continuous integration (optional)
 Consider using GitHub Actions (or other) to establish a continuous integration pipeline. If you do so then please provide a link to the .yml and a screenshot of the results of a workflow run.
 
-## Weekly progress reports
 
-Copy and paste from Moodle or use the following structure. Delete this instruction text.
 
-What I did in the last week:
-
-- item
-- item
-
-What I plan to do in the next week:
-
-- item
-- item
-
-Issues blocking my progress (state ‘None’ if there are no issues):
-
-- item
-- item
-
-### Report 1
-
-### Report 2
-
-### Report 3
-
-### Report 4
 
 ## References
 
-Delete this instruction text before submitting:
 
-- Include references to any templates you have used.
-- If you justify any of your choices with references then remember to also include these.
-- Use any [referencing style](https://library-guides.ucl.ac.uk/referencing-plagiarism/referencing-styles) that you are
-  used to using in your course.
