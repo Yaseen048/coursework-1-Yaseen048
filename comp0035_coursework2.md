@@ -12,10 +12,13 @@ Brainstorming is the other method used to identify requirements. Brainstorming h
 ### Requirement specification method
 
 ### Prioritisation method
-The method i have chosen to priortise my reuqirements is the MoSCoW technique
+The method i have chosen to priortise my requirements is the MoSCoW technique. This is a relavtively simple method to help priortise the requirements by using four categories: Must have, should have, could have and won't have for now. Because of this it helps give you an idea of how long the project will take to complete as well as assisting you in your time management of which parts of the project will take longer to make or build
 
 ### Documented and prioritised requirements
 Link to the full list of documented and prioritised requirements.
+
+I documented the requirements through natural language. This is becaue it helps to identify which requirements are functional and non-functional.
+
 ![documented and prioritised requirements](https://github.com/ucl-comp0035/coursework-1-Yaseen048/blob/master/Pictures/Requirements_table.png)
 
 
