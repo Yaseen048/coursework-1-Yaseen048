@@ -41,7 +41,15 @@ This is designed for desktop use as it would be easier for the target audince to
 ### Relational database design
 
 ### Application structure
+I decided to use a data- driven approach to intially identify the entities in the system. Using my requirements table, i identified the nouns as users, dashboard, news and improvements which are the classes. I then repeated the method to identfy methods by highligting verbs within the requirements. Although I used the DDD approach, I found it slightly harder to identfy adejctives to represent the attributes of each class. However knowing the methods of the class made it possible to find the attributes.
 
+The design pattern I considered was the MVC. I identfied four models: Login, Dashboard, news and improvements. The views are represented by the four wireframes above. The main method of the conrtoller was to update the views (for example changing from the dashbaord page to the news page).
+
+UML class diagram:
+
+Please note that I accidently forgot to add a upvote() method to the improvement class.
+
+![UML class diagram](https://github.com/ucl-comp0035/coursework-1-Yaseen048/blob/master/Pictures/UML_class_diagram.png)
 
 ## Testing
 ### Choice of unit testing library
